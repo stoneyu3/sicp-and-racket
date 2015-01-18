@@ -1,4 +1,4 @@
-#|
+ #|
  | (define (sqrt-iter guess x)
  |  (if (good-enough? guess x)
  |      guess
@@ -20,4 +20,4 @@
 
 (define (sqrt-newton x)
   (sqrt-iter 1.0 x))
-(sqrt-newton 9)
+;(sqrt-newton 2)
