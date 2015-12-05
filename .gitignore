@@ -1,2 +1,3 @@
 *.swp
 *.rkt~
+.DS_Store
